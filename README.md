@@ -3,7 +3,7 @@
 </p>
 
 
-Formada em engenharia civil pela Universidade Estadual de Goiás e estudante de Ciência dos Dados pela Universidade Federal de Mato Grosso do Sul, fascinada por Data Science e em transição de carreira.
+Formada em Engenharia Civil pela Universidade Estadual de Goiás, estudante de Ciência dos Dados pela Universidade Federal de Mato Grosso do Sul, fascinada por Data Science e em transição de carreira.
 
 Atualmente, busco me desenvolver de modo autodidata através de livros, cursos, bootcamps e eventos almejando me tornar uma ✨**Cientista de Dados**✨.
 
