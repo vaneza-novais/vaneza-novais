@@ -1,13 +1,9 @@
-## Oii! 👩‍💻
 <p align="center">
   <img src="https://media.tenor.com/ARV_14hrkB4AAAAi/diegodrawsart-women-and-girls-in-science.gif" width="100">
 </p>
 
 
-
-Me chamo **Vaneza**, moro em Goiás, sou formada em engenharia civil pela Universidade Estadual de Goiás e estudante de Ciência dos Dados pela Universidade Federal de Mato Grosso do Sul.
-
-Sou muito apaixonada por essa área, o suficiente pra ter me motivado a fazer uma transição de carreira.
+Formada em engenharia civil pela Universidade Estadual de Goiás e estudante de Ciência dos Dados pela Universidade Federal de Mato Grosso do Sul, fascinada por Data Science e em transição de carreira.
 
 Atualmente, busco me desenvolver de modo autodidata através de livros, cursos, bootcamps e eventos almejando me tornar uma ✨**Cientista de Dados**✨.
 
