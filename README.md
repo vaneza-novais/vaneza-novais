@@ -14,7 +14,7 @@ Atualmente, busco me desenvolver de modo autodidata através de livros, cursos, 
 
 
 
-### 📚Atualmente estudando:
+### Atualmente estudando:
 *   📈 Estatística aplicada: Probabilidade, Inferência Estatística e Modelagem
 *   🐍 Python para modelagem de dados
 *   💻 Fundamentos de Machine Learning
